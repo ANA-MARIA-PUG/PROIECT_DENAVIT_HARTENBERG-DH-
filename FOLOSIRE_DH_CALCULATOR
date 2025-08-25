@@ -1,0 +1,6 @@
+Cum se folosește
+-Rulează scriptul dh_calculator.py.
+-Completează sau modifică valorile parametrilor DH în tabel.
+-Apasă Calculează Matricele pentru a genera transformările.
+-Rezultatele vor fi afișate în partea dreaptă a ferestrei.
+-Opțional, poți salva rezultatele în fișierul rezultate_dh.txt.
